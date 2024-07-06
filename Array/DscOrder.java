@@ -3,7 +3,7 @@ class DscOrder
 	public static void main(String[] args) {
 		int arr[]={4,2,8,6,10};
 		int temp=0;
-		System.out.println("The asceding order of elements are: ");
+		System.out.println("The descending order of elements are: ");
 		for(int i=0;i<arr.length;i++)
 		{
 			for(int j=i+1;j<arr.length;j++)
